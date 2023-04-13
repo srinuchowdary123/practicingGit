@@ -1,0 +1,3 @@
+[submodule "practicingGit"]
+	path = practicingGit
+	url = https://github.com/srinuchowdary123/practicingGit.git
